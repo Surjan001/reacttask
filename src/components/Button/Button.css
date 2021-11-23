@@ -1,0 +1,21 @@
+.button_root{
+    width:90%;
+    height: auto;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px auto;
+    text-align: center;
+}
+button{
+    width: 75%;
+    height: auto;
+    padding: 15px;
+    margin: auto;
+    background: linear-gradient(transparent,violet);
+    border: none;
+    border-radius: 10px;
+}
+button:hover{
+    cursor: pointer;
+}

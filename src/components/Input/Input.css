@@ -1,0 +1,21 @@
+.input_root{
+    width:90%;
+    height: auto;
+    border: none;
+    border-left: 1px solid violet;
+    border-right: 1px solid violet;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px auto;
+    background: linear-gradient(transparent,rgb(255, 246, 255), rgb(255, 211, 255));
+}
+.input_root input{
+    width: 95%;
+    padding: 5px;
+    margin: 5px auto;
+    border: none;
+    border-bottom: 1px solid #610161;
+    outline:none;
+    background: linear-gradient(transparent, rgb(255, 211, 255));
+    border-radius: 10px;
+}

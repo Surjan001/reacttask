@@ -1,0 +1,23 @@
+.nav_root{
+    width:100% ;
+    margin: auto;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    background: rgb(145, 84, 145);
+    color: white;
+}
+.nav_root div{
+    width: 40%;
+    padding: 10px;
+}
+.nav_main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.navlink{
+    width: 40%;
+    text-align: center;
+    line-height: 85px;
+    color: white;
+}

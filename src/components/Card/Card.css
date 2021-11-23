@@ -1,0 +1,13 @@
+.card_root{
+    width: 40%;
+    height: auto;
+    margin: 15px auto;
+    padding: 15px;
+    border: 1px solid rgb(143, 6, 143);
+    border-top: none;
+    border-radius: 25px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    text-align: center;
+    background: linear-gradient(transparent,rgb(255, 246, 255), rgb(255, 211, 255));
+}
